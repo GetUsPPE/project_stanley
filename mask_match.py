@@ -2,7 +2,10 @@
 """
 	Project:
 		Mask Match
-
+		
+	Authors:
+		Ram Bala, Rohit Jacob ( Project Stanley [https://projectstanley.org/] )
+		
 	Invokation:
 		from mask_match import donor_optimizer
 
